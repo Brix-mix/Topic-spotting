@@ -1,2 +1,2 @@
 # Topic-spotting
-Used to save information and code
+My repo will be used to save valuable papers, tuts and walkthroughs.
